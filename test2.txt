@@ -1,3 +1,5 @@
-秦皇岛外打渔船。
+﻿秦皇岛外打渔船。
 
 git clone git@github.com:lilili1234567890/wodediyigexiangmu.git
+
+git remote add origin git@github.com:lilili1234567890/wodediyigexiangmu.git
